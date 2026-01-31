@@ -1,0 +1,3 @@
+C:/Users/Mihailo SB/Desktop/Service/build/_deps/ogg-subbuild/CMakeFiles/ogg-populate.dir
+C:/Users/Mihailo SB/Desktop/Service/build/_deps/ogg-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Mihailo SB/Desktop/Service/build/_deps/ogg-subbuild/CMakeFiles/rebuild_cache.dir
